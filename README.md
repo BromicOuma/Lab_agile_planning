@@ -1,1 +1,3 @@
-# Lab_agile_planning
+# Agile Planning
+
+This repository contains the agile planning
